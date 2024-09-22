@@ -1,0 +1,11 @@
+E:\Gab Hub\Invoicing\WebServices\Exam2\Exam2\bin\Debug\Exam2.exe.config
+E:\Gab Hub\Invoicing\WebServices\Exam2\Exam2\bin\Debug\Exam2.exe
+E:\Gab Hub\Invoicing\WebServices\Exam2\Exam2\bin\Debug\Exam2.pdb
+E:\Gab Hub\Invoicing\WebServices\Exam2\Exam2\bin\Debug\NLog.dll
+E:\Gab Hub\Invoicing\WebServices\Exam2\Exam2\bin\Debug\NLog.xml
+E:\Gab Hub\Invoicing\WebServices\Exam2\Exam2\obj\Debug\Exam2.csproj.AssemblyReference.cache
+E:\Gab Hub\Invoicing\WebServices\Exam2\Exam2\obj\Debug\Exam2.csproj.SuggestedBindingRedirects.cache
+E:\Gab Hub\Invoicing\WebServices\Exam2\Exam2\obj\Debug\Exam2.csproj.CoreCompileInputs.cache
+E:\Gab Hub\Invoicing\WebServices\Exam2\Exam2\obj\Debug\Exam2.csproj.CopyComplete
+E:\Gab Hub\Invoicing\WebServices\Exam2\Exam2\obj\Debug\Exam2.exe
+E:\Gab Hub\Invoicing\WebServices\Exam2\Exam2\obj\Debug\Exam2.pdb
